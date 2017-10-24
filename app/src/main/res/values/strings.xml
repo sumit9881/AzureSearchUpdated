@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMW Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort_by_distance">Distance</string>
+    <string name="sort_by_name">Name</string>
+    <string name="sort_by_arrival_time">Arrival</string>
+
+    <string name="tag_arrival_time">Arrival time: %1$s</string>
+    <string name="tag_location">Location %1$s</string>
+    <string name="tag_address">Address %1$s</string>
+    <string name="tag_longitude">Longitude: %1$.2f</string>
+    <string name="tag_latitude">Latitude: %1$.2f</string>
+
+    <string name="result_fragment_title">Locations</string>
+</resources>
